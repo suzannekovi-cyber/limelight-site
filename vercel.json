@@ -1,0 +1,10 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    { "source": "/meet-suzanne", "destination": "/meetsuzanne", "permanent": true },
+    { "source": "/programs", "destination": "/#coaching", "permanent": true },
+    { "source": "/parents-start-here", "destination": "/#coaching", "permanent": true },
+    { "source": "/book-a-call", "destination": "/#contact", "permanent": true }
+  ]
+}
